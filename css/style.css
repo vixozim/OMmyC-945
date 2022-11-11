@@ -55,37 +55,37 @@ a {
     -ms-transition: all 0.25s ease-in-out;
     -o-transition: all 0.25s ease-in-out;
     transition: all 0.25s ease-in-out;
-    color: #E08433;
+    color: #FE602F;
 }
 
 
 
 a:hover {
-    color: #E08433;
+    color: #FE602F;
     text-decoration: none;
 }
 
 a:focus {
-    color: #E08433;
+    color: #FE602F;
     outline: none;
     text-decoration: none;
 }
 
 a:active {
-    color: #E08433;
+    color: #FE602F;
     outline: none;
     text-decoration: none;
 }
 
 .btn-primary-travlez {
-    background-color: #E08433;
+    background-color: #FE602F;
     border: none;
     border-radius: 0px;
     font-size: 13px;
 }
 
 .btn-primary-travlez:hover {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 input {
@@ -290,7 +290,7 @@ header ul.nav-menu > li ul.sub-menu li a:hover:before {
     transition: all 0.4s;
     content: "\f105";
     font-family: FontAwesome;
-    color: #f3be4e;
+    color: #FE602F;
     margin-right: 5px;
 }
 
@@ -321,7 +321,7 @@ header ul.nav-menu > li:hover > ul.sub-menu > li:hover > ul.sub-menu {
 header ul.nav-menu > li.active > a:before {
     content: "\f068";
     font-family: FontAwesome;
-    color: #E08433;
+    color: #FE602F;
     margin-right: 5px;
 }
 
@@ -332,11 +332,11 @@ header ul.nav-menu > li:nth-last-child(2) > ul.sub-menu {
 }
 
 header ul.nav-menu > li.active > a {
-    color: #E08433;
+    color: #FE602F;
 }
 
 header ul.nav-menu > li > a:hover {
-    color: #E08433;
+    color: #FE602F;
 }
 
 header ul.nav-menu > li.has-dropdown {
@@ -427,7 +427,7 @@ header ul.nav-menu .mega-menu-out .mega-menu-list li a {
 }
 
 header ul.nav-menu .mega-menu-out .mega-menu-list li a:hover {
-    color: #E08433;
+    color: #FE602F;
     padding-left: 5px;
 }
 
@@ -435,7 +435,7 @@ header ul.nav-menu .mega-menu-out .mega-menu-list li a:hover:before {
     transition: all 0.4s;
     content: "\f105";
     font-family: FontAwesome;
-    color: #f3be4e;
+    color: #FE602F;
     margin-right: 5px;
 }
 
@@ -456,7 +456,7 @@ header ul.dropdown-dark .mega-menu-out .mega-menu-list li a:hover {
 }
 
 header ul.dropdown-dark .mega-menu-out .mega-menu-list li a:hover:before {
-    color: #f3be4e;
+    color: #FE602F;
 }
 
 header ul.dropdown-dark .mega-links-4columns ul.sub-menu-columns > li > a {
@@ -540,7 +540,7 @@ header .mega-links-4columns ul.sub-menu-columns > li > a {
     text-transform: uppercase;
     font-weight: 500;
     text-decoration: none;
-    color: #E08433;
+    color: #FE602F;
     border-bottom: 1px solid #dcdcdc;
     display: block;
 }
@@ -1175,7 +1175,7 @@ header.header-search .dropdown-menu a.dropdown-item {
 
 header.header-search .dropdown-menu a.dropdown-item:hover {
     color: #fff;
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 header.header-search .dropdown-menu a.dropdown-item .fa {
@@ -1231,7 +1231,7 @@ header a.model-link span {
     height: 20px;
     padding: 1px;
     border-radius: 20px;
-    background-color: #E08433;
+    background-color: #FE602F;
     color: #fff;
 }
 
@@ -1338,7 +1338,7 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 /*--- Global Background ---*/
 
 .background-main-color {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .background-main-color-2 {
@@ -1346,19 +1346,19 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 }
 
 .background-second-color {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .background-third-color {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .background-red {
-    background-color:  #E08433;;
+    background-color:  #FE602F;;
 }
 
 .background-pink {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .background-purple {
@@ -1483,15 +1483,15 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 }
 
 .background-img-main-color:after {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .background-img-second-color:after {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .background-img-third-color:after {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .no-background {
@@ -1516,15 +1516,15 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 /*--- Text Color ---*/
 
 .text-main-color {
-    color: #E08433;
+    color: #FE602F;
 }
 
 .text-second-color {
-    color: #E08433;
+    color: #FE602F;
 }
 
 .text-third-color {
-    color: #E08433;
+    color: #FE602F;
 }
 
 .text-red {
@@ -1532,7 +1532,7 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 }
 
 .text-pink {
-    color: #E08433;
+    color: #FE602F;
 }
 
 .text-purple {
@@ -17799,15 +17799,15 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 /*--- Borders Colors ---*/
 
 .border-main-color {
-    border-color: #E08433 !important;
+    border-color: #FE602F !important;
 }
 
 .border-second-color {
-    border-color: #E08433 !important;
+    border-color: #FE602F !important;
 }
 
 .border-third-color {
-    border-color: #E08433 !important;
+    border-color: #FE602F !important;
 }
 
 .border-red {
@@ -17815,7 +17815,7 @@ header#sidebar-header ul.nav-menu .mega-links-4columns ul.sub-menu-columns > li 
 }
 
 .border-pink {
-    border-color: #E08433 !important;
+    border-color: #FE602F !important;
 }
 
 .border-purple {
@@ -25517,19 +25517,19 @@ ul.pagination.dark li a {
 }
 
 ul.pagination.color li a {
-    background-color: #E08433;
+    background-color: #FE602F;
     color: #FAFAFA;
     border: none;
 }
 
 ul.pagination.color-1 li a {
-    background-color: #E08433;
+    background-color: #FE602F;
     color: #FAFAFA;
     border: none;
 }
 
 ul.pagination.color-2 li a {
-    background-color: #E08433;
+    background-color: #FE602F;
     color: #FAFAFA;
     border: none;
 }
@@ -25549,7 +25549,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     width: 50px;
     height: 50px;
     border-radius: 50px;
-    background-color: #E08433;
+    background-color: #FE602F;
     color: #fff;
     text-align: center;
     padding-top: 15px;
@@ -25663,11 +25663,11 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 
 .cart-model a.close:hover {
-    color: #E08433;
+    color: #FE602F;
 }
 
 .cart-model a.btn-primary {
-    background-color: #E08433;
+    background-color: #FE602F;
     border: none;
     font-weight: 700;
     text-transform: uppercase;
@@ -25676,15 +25676,15 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 
 .cart-model a.btn-outline-primary {
-    border-color: #E08433;
-    color: #E08433;
+    border-color: #FE602F;
+    color: #FE602F;
     font-weight: 700;
     text-transform: uppercase;
     font-size: 14px;
 }
 
 .cart-model a.btn-outline-primary:hover {
-    background-color: #E08433;
+    background-color: #FE602F;
     color: #fff;
 }
 
@@ -25756,7 +25756,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 
 #map-distributors .btn-book {
-    background-color: #E08433;
+    background-color: #FE602F;
     border-radius: 0;
     text-align: center;
     text-transform: uppercase;
@@ -25766,7 +25766,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 
 #map-distributors .btn-book {
-    background-color: #E08433;
+    background-color: #FE602F;
     border-radius: 0;
     text-align: center;
     text-transform: uppercase;
@@ -25776,7 +25776,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 
 #map-distributors .btn-book:hover {
-    background-color: #E08433;
+    background-color: #FE602F;
     text-decoration: none;
 }
 
@@ -25817,12 +25817,12 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 }
 
 #map-distributors .item-in .card-text small a span {
-    color: #E08433;
+    color: #FE602F;
 }
 
 #map-distributors .item-in .card-text-in .price {
     font-size: 17px;
-    color: #E08433;
+    color: #FE602F;
 }
 
 /*------------------------------------------------------------------------*
@@ -25840,7 +25840,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
 .search-filter .nav-item.show .nav-link,
 .search-filter .nav-tabs .nav-link.active {
     color: #fff;
-    background-color: #E08433;
+    background-color: #FE602F;
     border: 1px solid rgba(255, 255, 255, 0.3);
 }
 
@@ -25860,7 +25860,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 5px;
     left: 15px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25872,7 +25872,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 36px;
     left: 23px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25883,7 +25883,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 354px;
     left: 63px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25894,7 +25894,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 519px;
     left: 63px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25909,7 +25909,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 5px;
     left: 15px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25924,7 +25924,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 5px;
     left: 15px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25939,7 +25939,7 @@ ul.pagination-style-2 li a .page-item:last-child .page-link {
     top: 5px;
     left: 15px;
     z-index: 5;
-    color: #E08433;
+    color: #FE602F;
     z-index: 1;
 }
 
@@ -25966,11 +25966,11 @@ section .section-title h1 {
     text-transform: capitalize;
     font-weight: 700;
     font-size: 25px;
-    color: #E08433;
+    color: #FE602F;
 }
 
 section .section-title h1 span {
-    color: #E08433;
+    color: #FE602F;
 }
 
 section .section-title span.section-title-des {
@@ -25989,7 +25989,7 @@ section .section-title-left span.section-title-des:after {
     display: block;
     width: 65px;
     height: 10px;
-    border-bottom: solid 1px #E08433;
+    border-bottom: solid 1px #FE602F;
 }
 
 section .section-title-center span.section-title-des:after {
@@ -25998,7 +25998,7 @@ section .section-title-center span.section-title-des:after {
     display: block;
     width: 65px;
     height: 10px;
-    border-bottom: solid 1px #E08433;
+    border-bottom: solid 1px #FE602F;
     margin: auto;
 }
 
@@ -26073,7 +26073,7 @@ section .section-title-center span.section-title-des:after {
 }
 
 .hotel-list ul.service li:nth-child(odd) a {
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 .hotel-list ul.service li:nth-child(even) a {
@@ -26095,7 +26095,7 @@ section .section-title-center span.section-title-des:after {
     margin: 10px 10px 10px 0px;
     border-radius: 15px;
     background-color: #fff;
-    border: 1px solid #E08433;
+    border: 1px solid #FE602F;
 }
 
 /*------------------------------------
@@ -26117,8 +26117,8 @@ ul.social-list li a {
     width: 30px;
     height: 30px;
     text-align: center;
-    border: solid 1px #E08433;
-    color: #E08433;
+    border: solid 1px #FE602F;
+    color: #FE602F;
     padding-top: 4px;
 }
 
@@ -26201,7 +26201,7 @@ ul.pricing-content li {
 .widget h4.widget-title {
     text-transform: uppercase;
     font-size: 16px;
-    color: #E08433;
+    color: #FE602F;
     text-align: center;
     margin-bottom: 20px;
     font-weight: 700;
@@ -26241,7 +26241,7 @@ ul.pricing-content li {
 h4.table-title {
     text-transform: uppercase;
     font-size: 16px;
-    color: #E08433;
+    color: #FE602F;
     text-align: center;
     margin-bottom: 20px;
     font-weight: 700;
@@ -26268,7 +26268,7 @@ h4.table-title:before {
 
 footer{
 
-    background-color: #E08433;
+    background-color: #FE602F;
 }
 
 ul.last-posts-footer {
@@ -26355,7 +26355,7 @@ a img.aligncenter {
 ---------------------------------------------------------------- */
 
 .nav-tabs-2 .nav-link {
-    background-color: #E08433;
+    background-color: #FE602F;
     border-radius: 0px;
     border: none;
     color: #eee;
@@ -26654,7 +26654,7 @@ ul.list-style-10 li:before {
     top: -3px;
     right: -10px;
     font-family: 'FontAwesome';
-    color: #E08433;
+    color: #FE602F;
 }
 
 /* Social Icons
@@ -26875,7 +26875,7 @@ rounded .country .capital {
 }
 
 .demo-item:hover a {
-    color: #E08433;
+    color: #FE602F;
 }
 
 .demo-item:hover {

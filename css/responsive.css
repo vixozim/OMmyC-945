@@ -151,7 +151,7 @@ header ul.nav-menu > li ul.sub-menu li a:hover:before {
     transition: all 0.4s;
     content: "\f105";
     font-family: FontAwesome;
-    color: #f3be4e;
+    color: #FE602F;
     margin-right: 5px;
 }
 
@@ -193,11 +193,11 @@ header ul.nav-menu > li:nth-last-child(2) > ul.sub-menu {
 }
 
 header ul.nav-menu > li.active > a {
-    color: #E08433;
+    color: #FE602F;
 }
 
 header ul.nav-menu > li > a:hover {
-    color: #E08433;
+    color: #FE602F;
 }
 
 header ul.nav-menu > li.has-dropdown {
@@ -296,7 +296,7 @@ header ul.nav-menu .mega-menu-out .mega-menu-list li a:hover:before {
     transition: all 0.4s;
     content: "\f105";
     font-family: FontAwesome;
-    color: #f3be4e;
+    color: #FE602F;
     margin-right: 5px;
 }
 
@@ -317,7 +317,7 @@ header ul.dropdown-dark .mega-menu-out .mega-menu-list li a:hover {
 }
 
 header ul.dropdown-dark .mega-menu-out .mega-menu-list li a:hover:before {
-    color: #f3be4e;
+    color: #FE602F;
 }
 
 header ul.dropdown-dark .mega-links-4columns ul.sub-menu-columns > li > a {
@@ -343,7 +343,7 @@ header ul.dropdown-dark li > ul.sub-menu > li a:hover {
 }
 
 header ul.dropdown-dark li > ul.sub-menu > li a:hover:before {
-    color: #E08433;
+    color: #FE602F;
 }
 
 header ul.dropdown-dark > li.has-dropdown {
@@ -401,7 +401,7 @@ header .mega-links-4columns ul.sub-menu-columns > li > a {
     text-transform: uppercase;
     font-weight: 500;
     text-decoration: none;
-    color: #E08433;
+    color: #FE602F;
     border-bottom: 1px solid #dcdcdc;
     display: block;
 }
